@@ -15,4 +15,5 @@ interactions
 pyNotebooks
 pyutils
 results
-
+.ipynb_checkpoints
+.vscode
