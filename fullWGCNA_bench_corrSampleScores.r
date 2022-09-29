@@ -1,3 +1,5 @@
+setwd("C:/Users/simon/MSCThesis")
+
 source("rutils/wgcna_wrapper.r")
 source("rutils/data_loading.r")
 
