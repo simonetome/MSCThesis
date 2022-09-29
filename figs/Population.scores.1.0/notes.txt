@@ -1,0 +1,4 @@
+Candiolo signatures were calculated using TPM values and a simple matrix multiplication,
+other methods using immunedeconv package and always TPM values
+
+test were performed using 3000 top variance genes (3k stromal and 3k endothelial) with seq length gt400 (TPM values and spearman correlation)
