@@ -17,3 +17,9 @@ pyutils
 results
 .ipynb_checkpoints
 .vscode
+.Rproj.user
+WGCNA_output
+WGCNA_corrbenchmark
+string
+lr_integration
+interactions
